@@ -1,0 +1,9 @@
+.DS_Store
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
+# competition data (not redistributable)
+*/train.csv
+*/test.csv
+*/sample_submission.csv
+*/submission*.csv
